@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SynchronizationThreadSafeStackCPP",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SynchronizationThreadSafeStackCPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SynchronizationThreadSafeStackCPP-Debug-b8510728746c0126250c.json",
+					"name" : "SynchronizationThreadSafeStackCPP",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackCPP/cmake-build-debug",
+		"source" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,3 @@
+/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackC/cmake-build-debug/CMakeFiles/SynchronizationThreadSafeStack.dir
+/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
