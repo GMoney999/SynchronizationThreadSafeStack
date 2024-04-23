@@ -1,4 +1,4 @@
-"/Users/gerami/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/gerami/Applications/CLion Nova.app/Contents/bin/ninja/mac/aarch64/ninja" -G Ninja -S /Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackCPP -B /Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackCPP/cmake-build-debug
+"/Users/gerami/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/gerami/Applications/CLion Nova.app/Contents/bin/ninja/mac/aarch64/ninja" -G Ninja -S /Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP -B /Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP/cmake-build-debug
 -- The C compiler identification is AppleClang 14.0.3.14030022
 -- The CXX compiler identification is AppleClang 14.0.3.14030022
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (0.8s)
+-- Configuring done (0.6s)
 -- Generating done (0.0s)
--- Build files have been written to: /Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackCPP/cmake-build-debug
+-- Build files have been written to: /Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP/cmake-build-debug

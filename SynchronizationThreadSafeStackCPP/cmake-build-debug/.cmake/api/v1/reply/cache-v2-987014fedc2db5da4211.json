@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackC/cmake-build-debug"
+			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -140,6 +140,102 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "/Users/gerami/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/bin/ctest"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "CXX compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/Library/Developer/CommandLineTools/usr/bin/c++"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-g"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-Os -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O3 -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O2 -g -DNDEBUG"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER",
@@ -383,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackC/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -443,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackC"
+			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -723,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "SynchronizationThreadSafeStack"
+			"value" : "SynchronizationThreadSafeStackCPP"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1022,7 +1118,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "SynchronizationThreadSafeStack_BINARY_DIR",
+			"name" : "SynchronizationThreadSafeStackCPP_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1031,10 +1127,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackC/cmake-build-debug"
+			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP/cmake-build-debug"
 		},
 		{
-			"name" : "SynchronizationThreadSafeStack_IS_TOP_LEVEL",
+			"name" : "SynchronizationThreadSafeStackCPP_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1046,7 +1142,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "SynchronizationThreadSafeStack_SOURCE_DIR",
+			"name" : "SynchronizationThreadSafeStackCPP_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1055,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackC"
+			"value" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP"
 		}
 	],
 	"kind" : "cache",

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackCPP/cmake-build-debug",
-		"source" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStackCPP"
+		"build" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP/cmake-build-debug",
+		"source" : "/Users/gerami/University/OperatingSystems/hw/SynchronizationThreadSafeStack/SynchronizationThreadSafeStackCPP"
 	},
 	"version" : 
 	{
